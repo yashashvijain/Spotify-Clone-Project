@@ -18,11 +18,11 @@ Due to Spotify's proprietary fonts and icons, the following alternatives were us
 
 This clone project includes:
 
-Sidebar navigation similar to Spotify's web player.
-Library section with customizable options.
-Responsive design for different screen sizes.
-Styled cards to display music content.
-A footer section with a decorative line
+- Sidebar navigation similar to Spotify's web player.
+- Library section with customizable options.
+- Responsive design for different screen sizes.
+- Styled cards to display music content.
+- A footer section with a decorative line
 
 ## Tech-Stack-
 
